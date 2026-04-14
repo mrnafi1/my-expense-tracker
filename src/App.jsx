@@ -259,7 +259,7 @@ export default function App() {
         )}
 
         <div className="text-center mt-8 text-gray-500 text-sm pb-4">
-          <p>তৈরি করেছেন নাফি • সব ডেটা আপনার ব্রাউজারেই নিরাপদভাবে সংরক্ষিত</p>
+          <p>Developed by MUSHFIQUR NAFI . All data is securely stored locally in your browser</p>
         </div>
       </div>
     </div>
